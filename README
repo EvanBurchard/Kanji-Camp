@@ -1,1 +1,11 @@
 Just trying out camping, while at the same time solving a simple problem for myself.  
+
+Oh yeah.  If anyone doesn't know how to use camping, basically, you just have to install rack and camping:
+sudo gem install rack
+sudo gem install camping
+
+And then run this app with:
+camping kanji.rb
+
+Point your browser to:
+localhost:3301
